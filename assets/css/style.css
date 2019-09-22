@@ -4,25 +4,38 @@ body {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 18px;
     line-height: 150%;
-    color: #333;
     background: #efeee7;
   }
   
   header {
-    background: #333;
+    background: white;
   }
   
   h1 {
-    padding: 20px 0;
-    margin: 0;
+    margin-left: 25%;
     margin-bottom: 20px;
+    float: left;
     font-size: 28px;
-    color: #eee;
-    text-align: center;
+    color: white;
+    text-align: left;
+    background: cadetblue;
+  }
+
+  .p1{
+    float: right;
+    background: white;
+    color: whitesmoke;
+  }
+
+  .p2{
+    float: right;
+    background: white:
+    color: whitesmoke:
   }
   
   h2 {
     font-size: 24px;
+    color: cadetblue;
   }
   
   a {
@@ -31,7 +44,10 @@ body {
   
   .container {
     width: 1024px;
-    margin: 0 auto;
+    margin: 0 auto, 35% auto;
+    background: whitesmoke;
+    float: left;
+    Padding: auto 0, 25px;
   }
   
   #main-bio,
