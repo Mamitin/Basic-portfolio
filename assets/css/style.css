@@ -1,11 +1,12 @@
-body {
-    padding: 0;
-    margin: 0;
-    font-family: Georgia, "Times New Roman", Times, serif;
-    font-size: 18px;
-    line-height: 150%;
-    background: #efeee7;
-  }
+/* Structure */
+#main-container {
+    width: 960px;
+    margin-top: 0;
+    margin-bottom: 2em;
+    margin-right: auto;
+    margin-left: auto;
+    background: whitesmoke;
+}
   
   header {
     background: white;
@@ -18,7 +19,7 @@ body {
     font-size: 28px;
     color: white;
     text-align: left;
-    background: cadetblue;
+    background: ;
   }
 
   .p1{
@@ -38,16 +39,9 @@ body {
     color: cadetblue;
   }
   
-  a {
-    color: #d21034;
-  }
-  
+   
   .container {
-    width: 1024px;
-    margin: 0 auto, 35% auto;
-    background: whitesmoke;
-    float: left;
-    Padding: auto 0, 25px;
+   
   }
   
   #main-bio,
@@ -69,4 +63,6 @@ body {
     height: 200px;
     margin-right: 20px;
   }
+
+
   
