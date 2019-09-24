@@ -1,4 +1,4 @@
-# README Boilerplate
+# Basic Portfolio
 
 A template of README best practices to make your README simple to understand and easy to use. 
 
@@ -6,12 +6,10 @@ A template of README best practices to make your README simple to understand and
 
 - [Html](#installation)
 - [CSS](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
+- [Git](#support)
+- [Github](#contributing)
 
-## Installation
 
-Download to your project directory, add `README.md`, and commit:
 
 ```sh
 curl -LO http://git.io/Xy0Chg
@@ -38,4 +36,4 @@ Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
+Linkedin [Linkedin](https://www.linkedin.com/in/monica-amitin-58635475/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
