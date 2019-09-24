@@ -1,5 +1,14 @@
-#box-set {
-    Padding: 5px;
-    width: 150px;
-    display: block;
+ul.box-set {
+    column-count: 2;
+    column-gap: 20px;
 }
+
+ul.box-set img {
+    padding: 10px;
+    width: 150px;
+}
+
+.figcaption {
+     display: block;
+     position: absolute;
+ }
