@@ -1,13 +1,14 @@
 README Boilerplate
 A template of README best practices to make your README simple to understand and easy to use.
 
-Table of Contents
-Installation
-Usage
-Support
-Contributing
-Installation
-Download to your project directory, add README.md, and commit:
+#Table of Contents
+    -Installation
+    -Usage
+    -Support
+    -Contributing
+
+##
+
 
 curl -LO http://git.io/Xy0Chg
 git add README.md
@@ -15,8 +16,8 @@ git commit -m "Use README Boilerplate"
 Usage
 Replace the contents of README.md with your project's:
 
-Name
-Description
+Monica Amitin
+Basic Profilio
 Installation instructions
 Usage instructions
 Support instructions
