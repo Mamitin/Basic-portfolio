@@ -34,6 +34,7 @@ nav#main-menu {
   float: right;
   margin-top: 15px;
 }
+
 nav#main-menu a {
   display: block;
   float: left;
@@ -106,7 +107,7 @@ h2 {
 }
 
 footer {
-  border-top: 5px solid #4aaaa5;
+  border-top: 8px solid #4aaaa5;
   background-color: #666666;
   bottom: 0;
   width: 100%;
