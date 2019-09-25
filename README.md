@@ -15,8 +15,6 @@ Work in progress.
 
 ## Usage
 
-Replace the contents of `README.md` with your project's:
-
 - [Profile](https://github.com/Mamitin/Basic-portfolio/blob/master/portfolio.html)
 - [Portfolio](https://github.com/Mamitin/Basic-portfolio/blob/master/portfolio.html)
 - [Contact](https://github.com/Mamitin/Basic-portfolio/blob/master/contact.html)
