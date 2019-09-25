@@ -1,6 +1,10 @@
 body.portfolio#header-container, body.portfolio#main-container {
-    width:640px;
+    width: 640px;
   }
+
+body.contact#header-container, body.contact#main-container {
+    width: 640px;
+}
 
 ul.box-set {
     column-count: 2;
@@ -30,6 +34,11 @@ figcaption {
      left: 0;
  }
 
+ li.second {
+     position: relative;
+     top: 10px;
+ }
+
  /* contact.html */
  form#contactform label {
      display: block;
@@ -40,7 +49,7 @@ figcaption {
  }
 
  form#contactform textarea {
-     height: 6em;
+     height: 12em;
  }
 
  form#contactform input[type=submit] {
