@@ -48,9 +48,9 @@ figcaption {
  }
 
  form#contactForm input[type=submit] {
-     margin-top: 1.5em;
-     background-color: #4aaaa5;
-     color: #eee;
-     padding: 0.3em 1.2em;
-     background: none;
- }
+	margin-top: 1.5em;
+	background-color: #4aaaa5;
+	color: #eee;
+	padding: 0.3em 1.2em;
+	border: none;
+}

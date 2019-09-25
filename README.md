@@ -1,8 +1,10 @@
-# Basic Portfolio
+# UC Berkely Fullstack Coding Bootcamp
 
-A template of README best practices to make your README simple to understand and easy to use. 
+Activities, homework and project for UC Berkeley Coding Boot Camp. 
 
-## Table of Contents
+Work in progress.
+
+## Currently working on:
 
 - [Html](#installation)
 - [CSS](#usage)
@@ -10,30 +12,13 @@ A template of README best practices to make your README simple to understand and
 - [Github](#contributing)
 
 
-
-```sh
-curl -LO http://git.io/Xy0Chg
-git add README.md
-git commit -m "Use README Boilerplate"
-```
-
 ## Usage
 
 Replace the contents of `README.md` with your project's:
 
-- Monica Amitin
-- Basic Profile
-- Installation instructions
-- Usage instructions
-- Support instructions
-- Contributing instructions
+- Basic profile [Profile](https://github.com/Mamitin/Basic-portfolio/blob/master/portfolio.html)
 
-Feel free to remove any sections that aren't applicable to your project.
-
-## Support
-
-Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
 
 ## Contributing
 
-Linkedin [Linkedin](https://www.linkedin.com/in/monica-amitin-58635475/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
+Linkedin [Linkedin](https://www.linkedin.com/in/monica-amitin-58635475/).
