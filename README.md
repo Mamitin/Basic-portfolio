@@ -6,17 +6,20 @@ Work in progress.
 
 ## Currently working on:
 
-- [Html](#installation)
-- [CSS](#usage)
-- [Git](#support)
-- [Github](#contributing)
+- [Html]
+- [CSS]
+- [GitBash]
+- [GitLab]
+- [GitHub]
 
 
 ## Usage
 
 Replace the contents of `README.md` with your project's:
 
-- Basic profile [Profile](https://github.com/Mamitin/Basic-portfolio/blob/master/portfolio.html)
+- [Profile](https://github.com/Mamitin/Basic-portfolio/blob/master/portfolio.html)
+- [Portfolio](https://github.com/Mamitin/Basic-portfolio/blob/master/portfolio.html)
+- [Contact](https://github.com/Mamitin/Basic-portfolio/blob/master/contact.html)
 
 
 ## Contributing
