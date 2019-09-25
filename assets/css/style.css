@@ -1,4 +1,18 @@
-/* STRUCTURE */
+
+html {
+  min-height: 100%;
+  width: 100%;
+}
+
+body {
+  min-height: 100%;
+  padding: 0;
+  margin: 0;
+  line-height: 150%;
+  width: 100%;
+  background-image: url(../images/interlaced/interlaced.png);
+}
+
 #header-container, #main-container {
   width:960px;
 }
@@ -17,28 +31,10 @@
   min-height: 50%;
 }
 
- body {
-   min-height: 100%;
- }
-
-html {
-  width: 100%;
-  min-height: 100%;
-}
-
-body {
-  padding: 0;
-  margin: 0;
-  line-height: 150%;
-  width: 100%;
-  background-image: url(../images/interlaced/interlaced.png);
-}
-
 Section {
   padding: 2.5em;
 }
 
-/* NAVIGATION */
 nav#main-menu {
   float: right;
   margin-top: 15px;
@@ -48,13 +44,19 @@ nav#main-menu a {
   display: block;
   float: left;
   margin-left: 2em;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 15px;
+  color: #777777;
 }
 
-#main-menu a {
-   color: #777777;
-   text-decoration: none;
-   padding: 10px;
-   font-size: 15px;
+nav#main-menu strong {
+  display: block;
+  float: left;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin: 0.15em 0 0 0;
+  padding: 0.5em
 }
 
 h1#main-name {
@@ -80,13 +82,12 @@ h1#main-name {
   margin-right: 20px;
 }
 
-/* UTILITY */
 div.cleardiv {
   width: 100%;
   clear: both;
 }
 
-/* TEXT, FONTS AND COLORS */
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
@@ -118,7 +119,8 @@ h2 {
 footer {
   border-top: 8px solid #4aaaa5;
   background-color: #666666;
-  bottom: 0;
-  width: 100%;
   position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
