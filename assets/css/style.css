@@ -94,6 +94,10 @@ body {
   color: #777777;
 }
 
+p {
+  margin-bottom: 1em;
+}
+
 #main-container { 
   background-color: #fff;
 }
