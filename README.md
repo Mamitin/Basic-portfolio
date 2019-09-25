@@ -18,6 +18,7 @@ Work in progress.
 - [Profile](https://github.com/Mamitin/Basic-portfolio/blob/master/portfolio.html)
 - [Portfolio](https://github.com/Mamitin/Basic-portfolio/blob/master/portfolio.html)
 - [Contact](https://github.com/Mamitin/Basic-portfolio/blob/master/contact.html)
+- [Wireframe](https://github.com/Mamitin/HW-Wireframe/blob/master/index.html)
 
 
 ## Contributing
