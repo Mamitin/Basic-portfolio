@@ -6,11 +6,11 @@ Work in progress.
 
 ## Currently working on:
 
-- [Html]
-- [CSS]
-- [GitBash]
-- [GitLab]
-- [GitHub]
+- Html
+- CSS
+- GitBash
+- GitLab
+- GitHub
 
 
 ## Usage
@@ -24,4 +24,4 @@ Replace the contents of `README.md` with your project's:
 
 ## Contributing
 
-Linkedin [Linkedin](https://www.linkedin.com/in/monica-amitin-58635475/).
+Please find me on [Linkedin](https://www.linkedin.com/in/monica-amitin-58635475/).
