@@ -33,6 +33,7 @@ figcaption {
      position: relative;
      top: 0;
      left: 0;
+     display: inline-block;
  }
 
  /* contact.html */
