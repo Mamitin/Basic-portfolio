@@ -1,4 +1,4 @@
-# UC Berekely Fullstack Coding Bootcamp
+# UC Berkeley Fullstack Coding Bootcamp
 
 Activities, homework and project for UC Berkeley Coding Boot Camp. 
 
